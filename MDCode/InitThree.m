@@ -8,7 +8,7 @@ Method = 'VE'; % VE -- verlot; FD -- Forward Difference
 
 Mass0 = 14 * C.am; % Silicon
 Mass1 = 5 * C.am; % Argon
-Mass2 = 31 * C.am; % Gallium
+Mass2 = 2 * C.am; % He
 
 
 
